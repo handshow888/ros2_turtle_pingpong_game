@@ -6,7 +6,7 @@ Ubuntu 20.04
 ROS2 Foxy
 
 ## 编译前 Before Build
-把所有文件放在工作空间下的src目录里
+把所有文件放在工作空间下的src目录里  
 Put all files in {your_workspace}/src
 
 ## 编译 Build
